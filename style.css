@@ -1,0 +1,29 @@
+nav {
+	float: left;
+}
+
+#js {
+	text-align: center;
+	font-weight: bold;
+	margin: 10px 0px 10px 0px;
+
+}
+
+.nav-link {
+	border-top: 1px solid grey;
+	border-right: 1px solid grey;
+	border-bottom: 1px solid grey;
+	margin-left: -40px;
+}
+
+header {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+section {
+	margin-left: 50px;
+}
+
+
+
